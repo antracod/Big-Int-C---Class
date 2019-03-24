@@ -608,6 +608,4 @@ void BigInt::elim_zero()
         my_vector.pop_back();
 }
 
-
-
 #endif
