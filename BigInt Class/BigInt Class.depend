@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1553450512 source:c:\users\teodor\documents\github\big-int-c---class\bigint class\main.cpp
+	<iostream>
+	"BigInteger.h"
+
+1553450502 c:\users\teodor\documents\github\big-int-c---class\bigint class\biginteger.h
+	<iostream>
+	<cstring>
+	<vector>
+
